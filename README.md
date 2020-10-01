@@ -1,4 +1,4 @@
-# BlackHole-Attacks
+### BlackHole-Attacks ###
 View of how black hole attacks affect nodes in an adhoc network.
 
 When the program is open there will be information on both sides of a black square intially.
